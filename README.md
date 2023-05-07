@@ -10,7 +10,7 @@ Chris’s Running List of Expectations (not in any particular order):
 | ------------- | ------------- |
 | 1. English Only  | Chris uses a chat overlay, so if he doesn't understand what you send, it must be removed.  |
 | 2. No Politics | General rule is any event/topic younger than 50 years old is too political for the stream.  |
-| 3. No X vs Y Wars | General rule is any event/topic younger than 50 years old is too political for the stream.  |
+| 3. No X vs Y Wars |  This includes topics such as programmng languages, frameworks, and code editors.  |
 | 4. Respect All Coding Languages  | No degrading or meme-ing programming languages.  |
 | 5. Be Self Reliant  | Do your own research and work instead of asking for handouts or answers. Chris does not have a Q&A stream.  |
 | 6. Objective Questions Preferred  | Don’t ask subjective questions like how difficult something is or what tech tools Chris prefers.  |
