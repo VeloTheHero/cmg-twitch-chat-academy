@@ -18,7 +18,7 @@ Chris’s Running List of Expectations (not in any particular order):
 | 8 | On-Topic Chat Preffered  | Avoid interrupting Chris's conversation flow. Sometimes during downtime (heavy computing, app compilation, or switching tasks), Chris will reach out and ask how people are doing and what they are up to.  |
 | 9 | Backseating Only Upon Request  | No backseating unless Chris specifically invites it beforehand.  |
 | 10 | Experience is Not Proficiency  | Don’t ask Chris how long he's been programming for because it shouldn’t matter.   |
-| 11 | Clarify All Humor  | For jokes, sarcasm, or light-hearted comments, clearly indicate your message’s intent with things like lol, emojis, etc. Otherwise, you can easily be mistaken for malicious or hyperbolic intent.  |
+| 11 | Clarify All Humor  | For jokes, sarcasm, or light-hearted comments, clearly indicate your message’s intent with things like kappa, lol, emojis, etc. Otherwise, you can easily be mistaken for malicious or hyperbolic intent.  |
 | 12 | Maturity Preferred  | You will be judged on the maturity of your message, even if you’re new to stream.   |
 | 13 | Prioritize Current Goal  | All new app features or project suggestions when Chris is currently working on one should be softly delivered. Best to save ideas for Chris during downtime (heavy computing, app compilation, or switching tasks).  |
 
