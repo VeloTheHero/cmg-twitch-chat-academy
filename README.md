@@ -19,7 +19,8 @@ Chris’s Running List of Expectations (not in any particular order):
 13. **Prioritize Current Goal**: All new app features or project suggestions when Chris is currently working on one should be softly delivered. Best to save ideas for when Chris is between tasks or when he asks how everyone is doing. 
 
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
 | English Only  | Chris uses a chat overlay, so if he doesn't understand what you send, it must be removed.  |
 | No Politics | General rule is any event/topic younger than 50 years old is too political for the stream.  |
 | No X vs Y Wars | General rule is any event/topic younger than 50 years old is too political for the stream.  |
