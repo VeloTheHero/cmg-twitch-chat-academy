@@ -3,6 +3,8 @@
 
 A collection of the various norms and etiquettes practiced and expected by Chris Griffing's twitch chat community. This is an ongoing project aimed at capturing Chris's unwritten rules of engagement for his software development stream on Twitch.
 
+Visit the stream: [cmgriffing](https://www.twitch.tv/cmgriffing)
+
 Chris’s Running List of Expectations (not in any particular order):
 | Rule  | Description |
 | ------------- | ------------- |
